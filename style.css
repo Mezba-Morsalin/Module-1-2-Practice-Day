@@ -47,6 +47,7 @@
     background-color: rgb(16, 5, 120);
     padding: 15px;
     border-radius: 10px;
+    /* visibility: hidden; */
 }
 .heading-3 {
     color: #fff;
@@ -63,6 +64,7 @@
     background-color: rgb(182, 8, 29);
     padding: 15px;
     border-radius: 10px;
+    box-shadow: 10px 8px 10px 6px rgba(0,0,0,0.7);
 }
 .heading-4 {
     color: #fff;
